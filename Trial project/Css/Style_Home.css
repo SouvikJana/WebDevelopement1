@@ -1,0 +1,46 @@
+body{
+    background:#313033;
+    margin: 5 40 10 40;
+    padding: 5;
+}
+#ib{
+    background: #6D15EC;
+    padding: 40;
+    
+}
+#sign{
+    text-align: right;
+    margin: 10px 0px 10px 0px;
+    padding: 0px;
+}
+
+a{
+    text-decoration: none;
+    background:#c1e4d5;
+    border-style: dotted;
+    border:1px solid black; 
+    border-radius: 5px;
+    padding: 2px;
+}
+a:hover{
+    background: #a0c1c3;
+}
+header #home{
+    text-align: left;
+    
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,th{
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
